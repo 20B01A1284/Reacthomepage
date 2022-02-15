@@ -1,0 +1,58 @@
+.nav
+{
+    width : 1355px;
+    height : 50px;
+    background-color: black;
+}
+ul{
+    list-style: none;
+    padding-top: 5px;
+}
+li a
+{
+    text-decoration: none;
+    color: aliceblue;
+}
+a:hover
+{
+    color: skyblue;
+}
+li{
+    display: inline;
+    padding-left: 40px;
+}
+.logo
+{
+    position: relative;
+    top: 8px;
+}
+.searchlogo
+{
+    position: relative;
+    top: 5px;
+}
+.intro
+{
+    position: relative;
+    width : 1355px;
+    height : 400px; 
+}
+.text
+{
+    position: absolute;
+    top : 10px;
+    left: 360px;
+}
+button{
+    margin-top: 25px;
+}
+.ui.cards
+{
+    margin-left: 50px;
+}
+.ui.card{
+    width : 420px;
+    font-size: 16px;
+    box-shadow: none;
+    padding-left: 10px;
+}
